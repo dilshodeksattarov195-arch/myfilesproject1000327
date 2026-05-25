@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorralculate",
+        "uuid": 3000879,
+        "checksum": "nhak2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
